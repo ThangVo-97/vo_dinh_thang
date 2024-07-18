@@ -1,4 +1,3 @@
-List Messy:
 # in the sortedBalances function:
 - the 'balancePriority' variable do not use and the 'lhsPriority' variable do not declare. We should replace the 'lhsPriority' variable by the 'balancePriority' variable
 - We only need use 1 "if" condition
